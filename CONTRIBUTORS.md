@@ -2,6 +2,6 @@
 
 Welcome to our Hall of Fame! Add your name below as part of your first PR.
 
-| Name | GitHub Profile | Favorite Language |
+| Harsha | harshavardhan-reddy24 | English |
 | :--- | :--- | :--- |
-| Your Name | [@yourusername](https://github.com/yourusername) | markdown |
+| Harsha | [harshavardhan-reddy24](https://github.com/harshavardhan-reddy24) | markdown |
